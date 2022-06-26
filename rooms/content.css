@@ -15,6 +15,10 @@
 }
 
 
+body {
+  font-family: "HeliosExtLightC";
+}
+
 /* body {
   overflow: hidden;
 } */
@@ -70,6 +74,10 @@ justify-content: center;
 position: relative;
   z-index: 1
   margin-left: 6.53vw;
+  font-family: HeliosExtLightC;
+  font-size: 6vw;
+  text-align: center;
+  line-height: 145px;
 
 }
 
@@ -88,6 +96,10 @@ position: relative;
   cursor: pointer;
     text-decoration: underline;
     text-underline-offset: 2px;
+    font-family: HeliosExtLightC;
+    font-size: 1.8vw;
+    line-height: 50px;
+
 }
 
 

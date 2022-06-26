@@ -66,6 +66,10 @@ h3 {
   grid-column: 1/2;
   grid-row: 1/2;
   border: 1px solid black;
+  font-family: HeliosExtLightC;
+  font-size: 6vw;
+  text-align: center;
+  line-height: 145px;
 }
 
 .name {
@@ -77,6 +81,10 @@ h3 {
 
 .nameme {
   cursor: pointer;
+  font-family: HeliosExtLightC;
+  font-size: 6vw;
+  text-align: center;
+  line-height: 145px;
 }
 
 .descript {
@@ -93,18 +101,34 @@ h3 {
   z-index: 1;
   margin-left: 3vw;
   margin-top: 2vw;
+  font-family: HeliosExtC;
+  font-size: 1.5vw;
+  line-height: 2vw;
+
 }
 
 .mail{
   padding-top: 3vw;
+  font-family: HeliosExtC;
+  font-size: 1.5vw;
+  line-height: 2vw;
+
 }
 
 .cont{
   padding-top: 3vw;
+  font-family: HeliosExtC;
+  font-size: 1.5vw;
+  line-height: 2vw;
+
 }
 
 .me{
   padding-top: 3vw;
+  font-family: HeliosExtC;
+  font-size: 1.5vw;
+  line-height: 2vw;
+
 }
 
 .map {
@@ -124,6 +148,8 @@ h3 {
 .qbox {
   padding-left: 3vw;
   padding-top: 2vw;
+  font-family: HeliosExtLightC;
+  font-size: 3vw;
 }
 
 input {

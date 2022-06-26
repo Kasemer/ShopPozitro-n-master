@@ -172,7 +172,7 @@ animation-iteration-count: infinite;
   height: 8vw;
   left: 0vw;
   margin-top: 9vw;
-  padding-left: 12vw;
+  padding-left: 8vw;
 }
 
 .pozi {
@@ -185,7 +185,7 @@ animation-iteration-count: infinite;
 
 
 .disc2 {
-  padding-left: 12vw;
+  padding-left: 8vw;
   padding-top: 5vw;
 }
 
@@ -197,7 +197,7 @@ animation-iteration-count: infinite;
 }
 
 .disc3 {
-  padding-left: 12vw;
+  padding-left: 8vw;
   padding-top: 8vw;
 }
 
@@ -211,16 +211,18 @@ animation-iteration-count: infinite;
 }
 
 .helm {
+  z-index: 2;
   position: relative;
   height: 40vw;
   float: right;
-  padding-right: 5vw;
+  padding-right: 2vw;
   top: -17vw;
 }
 
 .bb {
   position: relative;
   top: 15vw;
+  left: 1vw;
 }
 
 .book {
