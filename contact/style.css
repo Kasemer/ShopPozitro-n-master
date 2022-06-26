@@ -1,7 +1,7 @@
 @import  url('../reset.css');
  @import "content.css";
  @import "responsive.css";
-
+/*
  @font-face {
 font-family: 'HeliosExtLightC';
 src: url('../fonts/HeliosExtLightC.ttf') format('ttf');
@@ -55,4 +55,4 @@ font-family: 'HeliosExtBlackC';
 src: url('../fonts/HeliosExtBlackC-Italic.ttf') format('ttf');
 font-weight: normal;
 font-style: italic;
-}
+} */
