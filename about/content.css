@@ -77,6 +77,10 @@ p2{
   grid-column: 1/2;
   grid-row: 1/2;
   border: 1px solid black;
+  font-family: HeliosExtLightC;
+  font-size: 6vw;
+  text-align: center;
+  line-height: 145px;
 }
 
 .name {
@@ -88,6 +92,10 @@ p2{
 
 .nameme {
   cursor: pointer;
+  font-family: HeliosExtLightC;
+  font-size: 6vw;
+  text-align: center;
+  line-height: 145px;
 }
 
 .who {
@@ -102,12 +110,18 @@ p2{
   justify-content: center;
   padding-left: 25%;
   padding-top: 25%;
+  font-family: HeliosExtLightC;
+  font-size: 3vw;
+  font-weight: 300;
 }
 
 .disc {
 
   position: relative;
-  top: 1vw;
+  top: -2vw;
+  font-family: HeliosExtLightC;
+  font-size: 1.5vw;
+  line-height: 1.7vw;
 }
 
 .pic {
@@ -148,6 +162,9 @@ animation-iteration-count: infinite;
 .story {
   position: relative;
   top: 3vw;
+  font-family: HeliosExtLightC;
+  font-size: 1.5vw;
+  line-height: 1.7vw;
 }
 
 .element {
@@ -155,7 +172,7 @@ animation-iteration-count: infinite;
   height: 8vw;
   left: 0vw;
   margin-top: 9vw;
-  padding-left: 4vw;
+  padding-left: 12vw;
 }
 
 .pozi {
@@ -168,7 +185,7 @@ animation-iteration-count: infinite;
 
 
 .disc2 {
-  padding-left: 4vw;
+  padding-left: 12vw;
   padding-top: 5vw;
 }
 
@@ -180,7 +197,7 @@ animation-iteration-count: infinite;
 }
 
 .disc3 {
-  padding-left: 4vw;
+  padding-left: 12vw;
   padding-top: 8vw;
 }
 
@@ -188,6 +205,9 @@ animation-iteration-count: infinite;
   position: relative;
   top: 3vw;
   left: 1vw;
+  font-family: HeliosExtLightC;
+  font-size: 1.5vw;
+  line-height: 1.7vw;
 }
 
 .helm {
