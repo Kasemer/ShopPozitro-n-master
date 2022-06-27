@@ -1,3 +1,6 @@
+* { margin: 0; padding: 0; }
+
+
 @font-face {
   font-family: "HeliosExtBlackC";
   src: url("fonts/HeliosExtBlackC.ttf") format("truetype");
@@ -39,14 +42,14 @@ h3 {
 
 }
 
-p1 {
+p {
   font-family: HeliosExtLightC;
   font-size: 3vw;
   font-weight: 300;
 
 }
 
-p2{
+p{
   font-family: HeliosExtLightC;
   font-size: 1.5vw;
   line-height: 1.7vw;
