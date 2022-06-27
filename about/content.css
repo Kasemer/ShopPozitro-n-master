@@ -35,14 +35,14 @@ h2 {
 }
 
 h3 {
-  font-family: HeliosExtC;
+  font-family: HeliosExtLightC;
   font-size: 1.5vw;
   line-height: 2vw;
 
 
 }
 
-p {
+/* p {
   font-family: HeliosExtLightC;
   font-size: 3vw;
   font-weight: 300;
@@ -53,7 +53,7 @@ p{
   font-family: HeliosExtLightC;
   font-size: 1.5vw;
   line-height: 1.7vw;
-}
+} */
 
 
 .wrapper {
