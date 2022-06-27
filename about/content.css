@@ -17,12 +17,12 @@
 
 
 body {
-  font-family: HeliosExtLightC;
+  font-family: "HeliosExtLightC";
   font-size: 6vw;
 }
 
 h1 {
-  font-family: HeliosExtLightC;
+  font-family: "HeliosExtLightC";
   font-size: 6vw;
   text-align: center;
   line-height: 145px;
@@ -80,7 +80,7 @@ p{
   grid-column: 1/2;
   grid-row: 1/2;
   border: 1px solid black;
-  font-family: HeliosExtLightC;
+  font-family: "HeliosExtLightC";
   font-size: 6vw;
   text-align: center;
   line-height: 145px;
@@ -95,7 +95,7 @@ p{
 
 .nameme {
   cursor: pointer;
-  font-family: HeliosExtLightC;
+  font-family: "HeliosExtLightC";
   font-size: 6vw;
   text-align: center;
   line-height: 145px;
@@ -113,7 +113,7 @@ p{
   justify-content: center;
   padding-left: 25%;
   padding-top: 25%;
-  font-family: HeliosExtLightC;
+  font-family: "HeliosExtLightC";
   font-size: 3vw;
   font-weight: 300;
 }
@@ -122,7 +122,7 @@ p{
 
   position: relative;
   top: -2vw;
-  font-family: HeliosExtLightC;
+  font-family: "HeliosExtLightC";
   font-size: 1.5vw;
   line-height: 1.7vw;
 }
@@ -165,7 +165,7 @@ animation-iteration-count: infinite;
 .story {
   position: relative;
   top: 3vw;
-  font-family: HeliosExtLightC;
+  font-family: "HeliosExtLightC";
   font-size: 1.5vw;
   line-height: 1.7vw;
 }
@@ -208,7 +208,7 @@ animation-iteration-count: infinite;
   position: relative;
   top: 3vw;
   left: 1vw;
-  font-family: HeliosExtLightC;
+  font-family: "HeliosExtLightC";
   font-size: 1.5vw;
   line-height: 1.7vw;
 }

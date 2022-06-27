@@ -280,7 +280,7 @@ justify-content: center;
 
 
 .tt4 {
-  font-family: HeliosExtLightC;
+  font-family: "HeliosExtLightC";
   font-weight: 300;
   font-size: 5vw;
   z-index: 1;
@@ -318,7 +318,7 @@ justify-content: center;
 }
 
 .tt5 {
-  font-family: HeliosExtLightC;
+  font-family: "HeliosExtLightC";
   font-weight: 300;
   font-size: 5vw;
   z-index: 1;
@@ -348,7 +348,7 @@ justify-content: center;
 .name {
   /* background-color: blue; */
   border: 1px solid black;
-  font-family: HeliosExtLightC;
+  font-family: "HeliosExtLightC";
   font-weight: 300;
   font-size: 6vw;
   grid-column-start: 2;
