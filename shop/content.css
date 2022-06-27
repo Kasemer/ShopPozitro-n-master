@@ -1,7 +1,18 @@
 * { margin: 0; padding: 0; }
 
+@font-face {
+  font-family: "HeliosExtBlackC";
+  src: url("fonts/HeliosExtBlackC.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
 
-
+@font-face {
+  font-family: "HeliosExtLightC";
+  src: url("fonts/HeliosExtLightC.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
 
 
 h1 {
